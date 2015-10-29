@@ -1,0 +1,2695 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Assyrian 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2015-08-07 22:51+0700\n"
+"PO-Revision-Date: 2015-08-07 22:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:158 ../functions.php:171 ../functions.php:177
+#: ../functions.php:181
+msgid "Search..."
+msgstr ""
+
+#: ../functions.php:197 ../functions.php:210 ../functions.php:216
+#: ../functions.php:220
+msgid "Search product..."
+msgstr ""
+
+#: ../functions.php:371 ../twentyfifteen/functions.php:85
+#: ../twentyfourteen/header.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:372
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:373
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../functions.php:622
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:624
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../functions.php:632
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../functions.php:634
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../functions.php:642
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../functions.php:644
+msgid "Small sidebar on product category page (only full width shop layout)"
+msgstr ""
+
+#: ../functions.php:652
+msgid "Category Filter"
+msgstr ""
+
+#: ../functions.php:654
+msgid "Filter area on product category page (only full width shop layout)"
+msgstr ""
+
+#: ../functions.php:662
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../functions.php:664
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../functions.php:672
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../functions.php:674
+msgid "Sidebar on contact page"
+msgstr ""
+
+#: ../functions.php:693
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../functions.php:708
+msgid "Post featured content"
+msgstr ""
+
+#: ../functions.php:898 ../twentyfifteen/functions.php:161
+#: ../twentyfifteen/functions.php:169 ../twentyfifteen/functions.php:177
+#: ../twentyfourteen/functions.php:213 ../twentythirteen/functions.php:128
+#: ../twentythirteen/functions.php:134
+msgid "on"
+msgstr ""
+
+#: ../functions.php:904 ../twentyfifteen/functions.php:185
+msgid "no-subset"
+msgstr ""
+
+#: ../functions.php:935 ../heajy/single.php:66
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:936 ../twentythirteen/functions.php:270
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../functions.php:937 ../twentythirteen/functions.php:274
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:952 ../twentyfifteen/single.php:36
+#: ../twentyfourteen/functions.php:258
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:953 ../twentyfifteen/single.php:33
+#: ../twentyfourteen/functions.php:259
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:974
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:974
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:993
+msgid "Post author"
+msgstr ""
+
+#: ../functions.php:998
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:1002
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:1006
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1011 ../heajy/image.php:146
+#: ../heajy/woocommerce/myaccount/my-address.php:45
+#: ../twentyfifteen/content-link.php:56 ../twentyfifteen/content-page.php:35
+#: ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:57
+#: ../twentyfifteen/image.php:71 ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:27
+#: ../twentythirteen/content-aside.php:35
+#: ../twentythirteen/content-audio.php:38
+#: ../twentythirteen/content-chat.php:36
+#: ../twentythirteen/content-gallery.php:46
+#: ../twentythirteen/content-image.php:42
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:32
+#: ../twentythirteen/content-status.php:26
+#: ../twentythirteen/content-video.php:42 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:1031 ../functions.php:1053
+#: ../twentyfifteen/inc/template-tags.php:91
+#: ../twentyfifteen/inc/template-tags.php:99
+#: ../twentyfourteen/content-aside.php:17
+#: ../twentyfourteen/content-audio.php:17
+#: ../twentyfourteen/content-featured-post.php:28
+#: ../twentyfourteen/content-gallery.php:17
+#: ../twentyfourteen/content-image.php:17
+#: ../twentyfourteen/content-link.php:17
+#: ../twentyfourteen/content-quote.php:17
+#: ../twentyfourteen/content-video.php:17 ../twentyfourteen/content.php:19
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+msgid ", "
+msgstr ""
+
+#: ../functions.php:1037
+msgid "0 comments"
+msgstr ""
+
+#: ../functions.php:1039 ../functions.php:1081
+msgid " comments"
+msgstr ""
+
+#: ../functions.php:1041 ../heajy/comments.php:31
+msgid "1 comment"
+msgstr ""
+
+#: ../functions.php:1046
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../functions.php:1057 ../twentyfifteen/author-bio.php:34
+#: ../twentythirteen/functions.php:343
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:1061
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../functions.php:1079
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../functions.php:1083
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../functions.php:1088
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../functions.php:1217 ../heajy/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:1218 ../heajy/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:1219 ../heajy/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:1220
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:1231 ../heajy/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:1232 ../heajy/class-tgm-plugin-activation.php:177
+#: ../heajy/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:1233
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../heajy/404.php:18
+msgid "404"
+msgstr ""
+
+#: ../heajy/404.php:19
+msgid "WHOOPS, OUR BAD..."
+msgstr ""
+
+#: ../heajy/404.php:20
+msgid "Please go to the home page "
+msgstr ""
+
+#: ../heajy/404.php:20
+msgid "home page"
+msgstr ""
+
+#: ../heajy/archive.php:58 ../heajy/author.php:52 ../heajy/category.php:52
+#: ../heajy/image.php:50 ../heajy/index.php:60 ../heajy/search.php:48
+#: ../heajy/single.php:47 ../heajy/tag.php:52 ../heajy/theme-config.php:1027
+msgid "Blog"
+msgstr ""
+
+#: ../heajy/archive.php:73 ../twentyfourteen/archive.php:31
+#: ../twentythirteen/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../heajy/archive.php:75 ../twentyfourteen/archive.php:34
+#: ../twentythirteen/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../heajy/archive.php:75 ../twentyfourteen/archive.php:34
+#: ../twentythirteen/archive.php:31
+msgid "F Y"
+msgstr ""
+
+#: ../heajy/archive.php:77 ../twentyfourteen/archive.php:37
+#: ../twentythirteen/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../heajy/archive.php:77 ../twentyfourteen/archive.php:37
+#: ../twentythirteen/archive.php:33
+msgid "Y"
+msgstr ""
+
+#: ../heajy/archive.php:79 ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../heajy/author.php:74
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../heajy/author.php:103 ../twentythirteen/author-bio.php:26
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../heajy/category.php:66 ../twentyfourteen/category.php:20
+#: ../twentythirteen/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:178
+#: ../heajy/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:532
+#: ../heajy/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1167
+#: ../heajy/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1170
+#: ../heajy/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1288
+#: ../heajy/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1312
+#: ../heajy/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1391
+#: ../heajy/woocommerce/myaccount/my-orders.php:34
+#: ../heajy/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2070
+#: ../heajy/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2070
+#: ../heajy/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../heajy/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../heajy/comments.php:51 ../twentyfifteen/comments.php:53
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../heajy/content-audio.php:62 ../heajy/content-gallery.php:59
+#: ../heajy/content-image.php:63 ../heajy/content-video.php:59
+#: ../heajy/content.php:63 ../twentyfourteen/inc/widgets.php:127
+#: ../twentyfourteen/inc/widgets.php:172
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../heajy/content-audio.php:63 ../heajy/content-gallery.php:60
+#: ../heajy/content-image.php:64 ../heajy/content-page.php:20
+#: ../heajy/content-video.php:60 ../heajy/content.php:64
+#: ../heajy/image.php:119 ../twentyfifteen/content-link.php:36
+#: ../twentyfifteen/content-page.php:25 ../twentyfifteen/content.php:38
+#: ../twentyfifteen/image.php:59 ../twentyfourteen/content-aside.php:53
+#: ../twentyfourteen/content-audio.php:53
+#: ../twentyfourteen/content-gallery.php:53
+#: ../twentyfourteen/content-image.php:53
+#: ../twentyfourteen/content-link.php:53 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:53
+#: ../twentyfourteen/content-video.php:53 ../twentyfourteen/content.php:61
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:30
+#: ../twentythirteen/content-gallery.php:31
+#: ../twentythirteen/content-image.php:30
+#: ../twentythirteen/content-link.php:31
+#: ../twentythirteen/content-quote.php:20
+#: ../twentythirteen/content-status.php:20
+#: ../twentythirteen/content-video.php:30 ../twentythirteen/content.php:48
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: ../heajy/content-audio.php:89 ../heajy/content-gallery.php:85
+#: ../heajy/content-image.php:89 ../heajy/content-video.php:85
+#: ../heajy/content.php:89
+msgid "About the Author: <a href=\""
+msgstr ""
+
+#: ../heajy/content-none.php:13 ../heajy/index.php:101 ../heajy/search.php:78
+#: ../twentyfifteen/content-none.php:15 ../twentyfourteen/content-none.php:12
+#: ../twentythirteen/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: ../heajy/content-none.php:17 ../heajy/index.php:105
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../heajy/image.php:135
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../heajy/image.php:156 ../twentyfourteen/inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../heajy/image.php:157 ../twentyfourteen/inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:8
+msgid "Road Widgets"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:104
+msgid "says"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:134 ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:138
+msgid "Amount:"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:142
+msgid "Widget Type:"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:144
+msgid "Recent Posts"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:145
+msgid "Popular Posts"
+msgstr ""
+
+#: ../heajy/include/roadwidgets.php:146
+msgid "Recent Comments"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:9 ../heajy/theme-config.php:737
+msgid "Brand Logos"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:12 ../heajy/include/shortcodes.php:21
+#: ../heajy/include/shortcodes.php:58 ../heajy/include/shortcodes.php:84
+#: ../heajy/include/shortcodes.php:110 ../heajy/include/shortcodes.php:118
+#: ../heajy/include/shortcodes.php:128
+msgid "RoadThemes"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:18
+msgid "Latest posts"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:27
+msgid "Number of posts"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:29
+msgid "5"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:35
+msgid "Image scale"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:46
+msgid "Excerpt length"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:48
+msgid "20"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:55 ../heajy/theme-config.php:1104
+msgid "Testimonials"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:64
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:66
+msgid "10"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:72
+msgid "Image size"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:74
+msgid "120"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:81 ../heajy/include/shortcodes.php:92
+msgid "Skill"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:90
+msgid "Skill title"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:98
+msgid "Percent"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:100
+msgid "100"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:107
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:116
+msgid "Twitter user name"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:125 ../heajy/include/shortcodes.php:134
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:135
+msgid ""
+"<a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target="
+"\"_blank\">Go here</a> to get icon class. Example: fa-search"
+msgstr ""
+
+#: ../heajy/include/shortcodes.php:137
+msgid "fa-search"
+msgstr ""
+
+#: ../heajy/include/wooajax.php:101 ../heajy/woocommerce/cart/mini-cart.php:21
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../heajy/include/wooajax.php:118
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../heajy/include/wooajax.php:129 ../heajy/woocommerce/cart/mini-cart.php:74
+msgid "View Cart"
+msgstr ""
+
+#: ../heajy/index.php:90
+msgid "No posts to display"
+msgstr ""
+
+#: ../heajy/index.php:94
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../heajy/projects/archive-project.php:24
+#: ../heajy/projects/content-single-project.php:23
+#: ../heajy/theme-config.php:857
+msgid "Portfolio"
+msgstr ""
+
+#: ../heajy/projects/archive-project.php:76
+msgid "All"
+msgstr ""
+
+#: ../heajy/search.php:62 ../twentyfifteen/search.php:18
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../heajy/search.php:82
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../heajy/single.php:67
+msgid "&larr;"
+msgstr ""
+
+#: ../heajy/single.php:68
+msgid "&rarr;"
+msgstr ""
+
+#: ../heajy/tag.php:66 ../twentyfourteen/tag.php:22
+#: ../twentythirteen/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../heajy/theme-config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ../heajy/theme-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../heajy/theme-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../heajy/theme-config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../heajy/theme-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../heajy/theme-config.php:212 ../twentyfifteen/inc/template-tags.php:102
+msgid "Tags"
+msgstr ""
+
+#: ../heajy/theme-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../heajy/theme-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../heajy/theme-config.php:240
+msgid "General"
+msgstr ""
+
+#: ../heajy/theme-config.php:241
+msgid "General theme options"
+msgstr ""
+
+#: ../heajy/theme-config.php:248
+msgid "Logo"
+msgstr ""
+
+#: ../heajy/theme-config.php:251 ../heajy/theme-config.php:418
+msgid "Upload logo here."
+msgstr ""
+
+#: ../heajy/theme-config.php:256
+msgid "Favicon"
+msgstr ""
+
+#: ../heajy/theme-config.php:259
+msgid "Upload favicon here."
+msgstr ""
+
+#: ../heajy/theme-config.php:265
+msgid "Background"
+msgstr ""
+
+#: ../heajy/theme-config.php:266
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: ../heajy/theme-config.php:274
+msgid "Body Background"
+msgstr ""
+
+#: ../heajy/theme-config.php:275
+msgid "Body background with image, color. Only work with box layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:282
+msgid "Background for error 404 page"
+msgstr ""
+
+#: ../heajy/theme-config.php:289
+msgid "Colors"
+msgstr ""
+
+#: ../heajy/theme-config.php:290
+msgid "Color options"
+msgstr ""
+
+#: ../heajy/theme-config.php:296
+msgid "Primary Color"
+msgstr ""
+
+#: ../heajy/theme-config.php:297
+msgid "Pick a color for primary color (default: #afa376)."
+msgstr ""
+
+#: ../heajy/theme-config.php:307
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../heajy/theme-config.php:308
+msgid "Pick a color for bg sale label (default: #ffffff)."
+msgstr ""
+
+#: ../heajy/theme-config.php:318
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../heajy/theme-config.php:319
+msgid "Pick a color for sale label text (default: #333333)."
+msgstr ""
+
+#: ../heajy/theme-config.php:329
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../heajy/theme-config.php:330
+msgid "Pick a color for star of rating (default: #222222)."
+msgstr ""
+
+#: ../heajy/theme-config.php:340
+msgid "Header"
+msgstr ""
+
+#: ../heajy/theme-config.php:341
+msgid "Header options"
+msgstr ""
+
+#: ../heajy/theme-config.php:348
+msgid "Header Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:365
+msgid "Left Menu"
+msgstr ""
+
+#: ../heajy/theme-config.php:366 ../heajy/theme-config.php:373
+#: ../heajy/theme-config.php:562 ../heajy/theme-config.php:569
+#: ../heajy/theme-config.php:576 ../heajy/theme-config.php:583
+#: ../heajy/theme-config.php:590
+msgid "Select a menu"
+msgstr ""
+
+#: ../heajy/theme-config.php:372
+msgid "Right Menu"
+msgstr ""
+
+#: ../heajy/theme-config.php:378
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../heajy/theme-config.php:379
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../heajy/theme-config.php:385
+msgid "Slider Alias"
+msgstr ""
+
+#: ../heajy/theme-config.php:386
+msgid "Enter the slider alias for the slider above header"
+msgstr ""
+
+#: ../heajy/theme-config.php:394
+msgid "Footer"
+msgstr ""
+
+#: ../heajy/theme-config.php:395
+msgid "Footer options"
+msgstr ""
+
+#: ../heajy/theme-config.php:401
+msgid "Footer Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:415
+msgid "Footer Logo"
+msgstr ""
+
+#: ../heajy/theme-config.php:423
+msgid "Ribbon text"
+msgstr ""
+
+#: ../heajy/theme-config.php:424
+msgid "HTML tags allowed: h1, h2, h3, a, br, strong"
+msgstr ""
+
+#: ../heajy/theme-config.php:435
+msgid "Copyright information"
+msgstr ""
+
+#: ../heajy/theme-config.php:436
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: ../heajy/theme-config.php:447
+msgid "Payment icons"
+msgstr ""
+
+#: ../heajy/theme-config.php:448
+msgid "HTML tags allowed: a, img"
+msgstr ""
+
+#: ../heajy/theme-config.php:460
+msgid "Custom Block"
+msgstr ""
+
+#: ../heajy/theme-config.php:466
+msgid "Block title"
+msgstr ""
+
+#: ../heajy/theme-config.php:472
+msgid "Custom block"
+msgstr ""
+
+#: ../heajy/theme-config.php:473
+msgid "HTML tags allowed: a, img, ul, li, i, br, em, strong, p"
+msgstr ""
+
+#: ../heajy/theme-config.php:485
+msgid "Newsletter"
+msgstr ""
+
+#: ../heajy/theme-config.php:491
+msgid "Newsletter title"
+msgstr ""
+
+#: ../heajy/theme-config.php:497
+msgid "Newsletter form ID"
+msgstr ""
+
+#: ../heajy/theme-config.php:498
+msgid "The form ID of MailPoet plugin."
+msgstr ""
+
+#: ../heajy/theme-config.php:507 ../heajy/theme-config.php:519
+msgid "Social Icons"
+msgstr ""
+
+#: ../heajy/theme-config.php:513
+msgid "Follow Us title"
+msgstr ""
+
+#: ../heajy/theme-config.php:520
+msgid "Enter social links"
+msgstr ""
+
+#: ../heajy/theme-config.php:521
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../heajy/theme-config.php:554
+msgid "Menus"
+msgstr ""
+
+#: ../heajy/theme-config.php:561
+msgid "Menu #1"
+msgstr ""
+
+#: ../heajy/theme-config.php:568
+msgid "Menu #2"
+msgstr ""
+
+#: ../heajy/theme-config.php:575
+msgid "Menu #3"
+msgstr ""
+
+#: ../heajy/theme-config.php:582
+msgid "Menu #4"
+msgstr ""
+
+#: ../heajy/theme-config.php:589
+msgid "Menu Bottom"
+msgstr ""
+
+#: ../heajy/theme-config.php:597
+msgid "Fonts"
+msgstr ""
+
+#: ../heajy/theme-config.php:598
+msgid "Fonts options"
+msgstr ""
+
+#: ../heajy/theme-config.php:605
+msgid "Body font"
+msgstr ""
+
+#: ../heajy/theme-config.php:622
+msgid "Main body font."
+msgstr ""
+
+#: ../heajy/theme-config.php:635
+msgid "Heading font"
+msgstr ""
+
+#: ../heajy/theme-config.php:652
+msgid "Heading font."
+msgstr ""
+
+#: ../heajy/theme-config.php:663
+msgid "Menu font"
+msgstr ""
+
+#: ../heajy/theme-config.php:680
+msgid "Menu font."
+msgstr ""
+
+#: ../heajy/theme-config.php:694 ../twentyfourteen/inc/customizer.php:56
+msgid "Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:695
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../heajy/theme-config.php:702
+msgid "Page Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:712
+msgid "Preset"
+msgstr ""
+
+#: ../heajy/theme-config.php:713
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../heajy/theme-config.php:728
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../heajy/theme-config.php:729
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../heajy/theme-config.php:738
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../heajy/theme-config.php:744
+msgid "Number of logos per page"
+msgstr ""
+
+#: ../heajy/theme-config.php:745
+msgid "Number of logos per page, default value: 6"
+msgstr ""
+
+#: ../heajy/theme-config.php:755 ../heajy/theme-config.php:1111
+msgid "Auto scroll"
+msgstr ""
+
+#: ../heajy/theme-config.php:761
+msgid "Scroll amount"
+msgstr ""
+
+#: ../heajy/theme-config.php:762
+msgid "Number of logos to scroll one time, default value: 2"
+msgstr ""
+
+#: ../heajy/theme-config.php:772 ../heajy/theme-config.php:1080
+#: ../heajy/theme-config.php:1117
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../heajy/theme-config.php:773 ../heajy/theme-config.php:1081
+#: ../heajy/theme-config.php:1118
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../heajy/theme-config.php:783 ../heajy/theme-config.php:1091
+#: ../heajy/theme-config.php:1128
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../heajy/theme-config.php:784 ../heajy/theme-config.php:1092
+#: ../heajy/theme-config.php:1129
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../heajy/theme-config.php:794
+msgid "Logos"
+msgstr ""
+
+#: ../heajy/theme-config.php:795
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../heajy/theme-config.php:797
+#: ../heajy/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../heajy/theme-config.php:798
+msgid "Description"
+msgstr ""
+
+#: ../heajy/theme-config.php:799
+msgid "Link"
+msgstr ""
+
+#: ../heajy/theme-config.php:807
+msgid "Sidebar"
+msgstr ""
+
+#: ../heajy/theme-config.php:808
+msgid "Sidebar options"
+msgstr ""
+
+#: ../heajy/theme-config.php:815
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../heajy/theme-config.php:816
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../heajy/theme-config.php:825
+msgid "Secondary Sidebar Position"
+msgstr ""
+
+#: ../heajy/theme-config.php:826
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../heajy/theme-config.php:835
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../heajy/theme-config.php:836
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../heajy/theme-config.php:845
+msgid "Contact Sidebar Position"
+msgstr ""
+
+#: ../heajy/theme-config.php:846
+msgid "Sidebar on Contact page"
+msgstr ""
+
+#: ../heajy/theme-config.php:858
+msgid "Use this section to select options for portfolio"
+msgstr ""
+
+#: ../heajy/theme-config.php:865
+msgid "Portfolio header background"
+msgstr ""
+
+#: ../heajy/theme-config.php:871
+msgid "Portfolio Columns"
+msgstr ""
+
+#: ../heajy/theme-config.php:881
+msgid "Projects per page"
+msgstr ""
+
+#: ../heajy/theme-config.php:882
+msgid "Amount of projects per page on portfolio page"
+msgstr ""
+
+#: ../heajy/theme-config.php:892
+msgid "Related projects title"
+msgstr ""
+
+#: ../heajy/theme-config.php:900 ../heajy/woocommerce/cart/cart.php:26
+#: ../heajy/woocommerce/checkout/review-order.php:17
+#: ../heajy/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../heajy/theme-config.php:901
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../heajy/theme-config.php:907
+msgid "Shop Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:918
+msgid "Shop default view"
+msgstr ""
+
+#: ../heajy/theme-config.php:929
+msgid "Products per page"
+msgstr ""
+
+#: ../heajy/theme-config.php:930
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../heajy/theme-config.php:940
+msgid "Product columns"
+msgstr ""
+
+#: ../heajy/theme-config.php:941
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../heajy/theme-config.php:942 ../heajy/theme-config.php:954
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../heajy/theme-config.php:952
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../heajy/theme-config.php:953
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../heajy/theme-config.php:964
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../heajy/theme-config.php:970
+msgid "Related products title"
+msgstr ""
+
+#: ../heajy/theme-config.php:976
+msgid "Number of related products"
+msgstr ""
+
+#: ../heajy/theme-config.php:986
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../heajy/theme-config.php:992
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../heajy/theme-config.php:998
+msgid "View details text"
+msgstr ""
+
+#: ../heajy/theme-config.php:1004
+msgid "View all features text"
+msgstr ""
+
+#: ../heajy/theme-config.php:1005
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../heajy/theme-config.php:1011
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../heajy/theme-config.php:1012
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../heajy/theme-config.php:1018
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../heajy/theme-config.php:1019
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../heajy/theme-config.php:1028
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../heajy/theme-config.php:1035
+msgid "Blog header background"
+msgstr ""
+
+#: ../heajy/theme-config.php:1041
+msgid "Blog header text"
+msgstr ""
+
+#: ../heajy/theme-config.php:1047
+msgid "Blog Layout"
+msgstr ""
+
+#: ../heajy/theme-config.php:1058
+msgid "Read more text"
+msgstr ""
+
+#: ../heajy/theme-config.php:1064
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../heajy/theme-config.php:1074
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../heajy/theme-config.php:1105
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../heajy/theme-config.php:1141
+msgid "Contact Map"
+msgstr ""
+
+#: ../heajy/theme-config.php:1142
+msgid "Use this section to select options for Google Map on contact page"
+msgstr ""
+
+#: ../heajy/theme-config.php:1148
+msgid "Show map"
+msgstr ""
+
+#: ../heajy/theme-config.php:1149
+msgid "Show map on contact page"
+msgstr ""
+
+#: ../heajy/theme-config.php:1155
+msgid "Locate by"
+msgstr ""
+
+#: ../heajy/theme-config.php:1156
+msgid "Locate marker by address or coordinate"
+msgstr ""
+
+#: ../heajy/theme-config.php:1166
+msgid "Map description"
+msgstr ""
+
+#: ../heajy/theme-config.php:1167
+msgid "The text on map popup"
+msgstr ""
+
+#: ../heajy/theme-config.php:1178
+msgid "Latitude"
+msgstr ""
+
+#: ../heajy/theme-config.php:1184
+msgid "Longtitude"
+msgstr ""
+
+#: ../heajy/theme-config.php:1190
+msgid "Address"
+msgstr ""
+
+#: ../heajy/theme-config.php:1196
+msgid "Zoom level"
+msgstr ""
+
+#: ../heajy/theme-config.php:1206
+msgid "Marker"
+msgstr ""
+
+#: ../heajy/theme-config.php:1209
+msgid "Upload marker image here, the image size is 32x47 pixels."
+msgstr ""
+
+#: ../heajy/theme-config.php:1216
+msgid "Custom CSS"
+msgstr ""
+
+#: ../heajy/theme-config.php:1217
+msgid "Add your Custom CSS code"
+msgstr ""
+
+#: ../heajy/theme-config.php:1223
+msgid "CSS Code"
+msgstr ""
+
+#: ../heajy/theme-config.php:1224
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../heajy/theme-config.php:1234
+msgid "Less Compiler"
+msgstr ""
+
+#: ../heajy/theme-config.php:1235
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../heajy/theme-config.php:1241
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../heajy/theme-config.php:1248
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../heajy/theme-config.php:1249
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../heajy/theme-config.php:1250
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../heajy/theme-config.php:1254
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../heajy/theme-config.php:1259
+msgid "Import / Export"
+msgstr ""
+
+#: ../heajy/theme-config.php:1260
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../heajy/theme-config.php:1275
+msgid "Theme Information"
+msgstr ""
+
+#: ../heajy/theme-config.php:1292
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../heajy/theme-config.php:1293 ../heajy/theme-config.php:1299
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../heajy/theme-config.php:1298
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../heajy/theme-config.php:1303
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../heajy/theme-config.php:1323 ../heajy/theme-config.php:1324
+msgid "Theme Options"
+msgstr ""
+
+#: ../heajy/woocommerce/archive-product.php:113
+msgid "View on"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:29
+#: ../heajy/woocommerce/checkout/review-order.php:18
+#: ../heajy/woocommerce/myaccount/my-orders.php:35
+#: ../heajy/woocommerce/myaccount/my-orders.php:58
+#: ../heajy/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:105
+#: ../heajy/woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:121
+msgid "Update Cart"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:122
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:128
+msgid "Coupon"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:129
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:130
+msgid "Coupon code"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cart.php:131
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/cross-sells.php:40
+msgid ""
+"Base on your selection, you may be interested in the \n"
+"following items:"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/mini-cart.php:61
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/mini-cart.php:62
+#: ../heajy/woocommerce/cart/mini-cart.php:68
+msgid "Subtotal"
+msgstr ""
+
+#: ../heajy/woocommerce/cart/mini-cart.php:73
+msgid "Checkout"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:26
+#: ../heajy/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:34
+#: ../heajy/woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:38
+msgid "Order:"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: ../heajy/woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: ../heajy/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../heajy/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../heajy/woocommerce/class-wc-widget-cart.php:29
+#: ../heajy/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../heajy/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../heajy/woocommerce/content-product-archive.php:61
+#: ../heajy/woocommerce/content-product.php:56
+#: ../heajy/woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: ../heajy/woocommerce/content-product-archive.php:87
+#: ../heajy/woocommerce/content-product.php:82
+msgid "Quick View"
+msgstr ""
+
+#: ../heajy/woocommerce/content-product_cat.php:72
+msgid "Browse Category"
+msgstr ""
+
+#: ../heajy/woocommerce/content-single-product.php:34
+msgid "All products"
+msgstr ""
+
+#: ../heajy/woocommerce/loop/orderby.php:14
+msgid "Sort By"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:29
+#: ../heajy/woocommerce/myaccount/form-login.php:49
+msgid "Login"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:38
+#: ../heajy/woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:67
+#: ../heajy/woocommerce/myaccount/form-login.php:104
+msgid "Register"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:19
+#: ../heajy/woocommerce/myaccount/my-address.php:25
+#: ../heajy/woocommerce/order/order-details.php:196
+msgid "Billing Address"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:20
+#: ../heajy/woocommerce/order/order-details.php:215
+msgid "Shipping Address"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:33
+#: ../heajy/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/view-order.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../heajy/woocommerce/myaccount/view-order.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:126
+#: ../heajy/woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:174
+msgid "Email:"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:174
+#: ../heajy/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:178
+msgid "Telephone:"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:178
+msgid "Telephone"
+msgstr ""
+
+#: ../heajy/woocommerce/order/order-details.php:201
+#: ../heajy/woocommerce/order/order-details.php:220
+msgid "N/A"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/add-to-cart/variable.php:92
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/product-image.php:40
+msgid "Placeholder"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../heajy/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../twentyfifteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../twentyfifteen/404.php:21 ../twentyfourteen/404.php:21
+#: ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:49 ../twentyfifteen/index.php:46
+#: ../twentyfifteen/search.php:38
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:50 ../twentyfifteen/index.php:47
+#: ../twentyfifteen/search.php:39
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/content-link.php:40
+#: ../twentyfifteen/content-page.php:29 ../twentyfifteen/content.php:42
+#: ../twentyfifteen/image.php:63 ../twentyfifteen/index.php:48
+#: ../twentyfifteen/search.php:40
+msgid "Page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:31 ../twentyfifteen/content.php:33
+#: ../twentyfifteen/inc/template-tags.php:237
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:22 ../twentyfourteen/content-none.php:18
+#: ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:26 ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:31 ../twentyfourteen/content-none.php:27
+#: ../twentythirteen/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25 ../twentyfourteen/footer.php:21
+#: ../twentythirteen/footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:255
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:256
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/header.php:26 ../twentyfourteen/header.php:53
+#: ../twentythirteen/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfifteen/header.php:43
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:84
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:47
+#: ../twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:47
+#: ../twentyfifteen/inc/customizer.php:63
+#: ../twentyfifteen/inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:92
+msgid "Default"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:103
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:114
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:125
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:136
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:147
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:23 ../twentyfourteen/comments.php:34
+#: ../twentyfourteen/comments.php:52 ../twentythirteen/comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:55
+msgid "Format"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:76
+msgid "Posted on"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:85
+msgid "Author"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:94
+msgid "Categories"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:113
+msgid "Full size"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:122
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfifteen/single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:27
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/inc/template-tags.php:222
+#: ../twentythirteen/content-aside.php:16
+#: ../twentythirteen/content-audio.php:27
+#: ../twentythirteen/content-chat.php:26
+#: ../twentythirteen/content-gallery.php:27
+#: ../twentythirteen/content-image.php:26
+#: ../twentythirteen/content-link.php:27
+#: ../twentythirteen/content-quote.php:16
+#: ../twentythirteen/content-status.php:16
+#: ../twentythirteen/content-video.php:26 ../twentythirteen/content.php:44
+#: ../twentythirteen/functions.php:478
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:376
+#, php-format
+msgid "%d Article"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:495 ../twentythirteen/functions.php:218
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:24
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+#: ../twentyfourteen/inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:34
+#: ../twentyfourteen/inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:40
+#: ../twentyfourteen/inc/featured-content.php:403
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:41
+#: ../twentyfourteen/inc/featured-content.php:404
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:42
+#: ../twentyfourteen/inc/customizer.php:108
+#: ../twentyfourteen/inc/featured-content.php:405
+#: ../twentyfourteen/inc/featured-content.php:414
+#: ../twentyfourteen/inc/featured-content.php:474
+msgid "featured"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:60
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:61
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:105
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:108
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:109
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:110
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:426
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:162
+#, php-format
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:303
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../twentythirteen/functions.php:304
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:363
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:49
+msgid "Circle"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:54
+msgid "Diamond"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:59
+msgid "Star"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
