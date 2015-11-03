@@ -1001,43 +1001,6 @@ if (!class_exists('Road_Theme_Config')) {
                 ),
             );
 			
-			// Testimonials options
-            $this->sections[] = array(
-                'title'     => esc_html__('Testimonials', 'allen'),
-                'desc'      => esc_html__('Use this section to select options for Testimonials', 'allen'),
-                'icon'      => 'el-icon-comment',
-                'fields'    => array(
-					array(
-						'id'       => 'testiscroll',
-						'type'     => 'switch',
-						'title'    => esc_html__('Auto scroll', 'allen'),
-						'default'  => false,
-					),
-					array(
-						'id'        => 'testipause',
-						'type'      => 'slider',
-						'title'     => esc_html__('Pause in (seconds)', 'allen'),
-						'desc'      => esc_html__('Pause time, default value: 3000', 'allen'),
-						"default"   => 3000,
-						"min"       => 1000,
-						"step"      => 500,
-						"max"       => 10000,
-						'display_value' => 'text'
-					),
-					array(
-						'id'        => 'testianimate',
-						'type'      => 'slider',
-						'title'     => esc_html__('Animate in (seconds)', 'allen'),
-						'desc'      => esc_html__('Animate time, default value: 2000', 'allen'),
-						"default"   => 2000,
-						"min"       => 300,
-						"step"      => 100,
-						"max"       => 5000,
-						'display_value' => 'text'
-					),
-                ),
-            );
-			
 			// Contact Map
             $this->sections[] = array(
                 'title'     => esc_html__('Contact Map', 'allen'),

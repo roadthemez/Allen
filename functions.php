@@ -613,17 +613,19 @@ Class RoadThemes {
 		<?php } ?>
 		<script type="text/javascript">
 		var road_brandnumber = <?php if(isset($road_opt['brandnumber'])) { echo esc_js($road_opt['brandnumber']); } else { echo '6'; } ?>,
-			road_brandscroll = <?php echo esc_js($road_opt['brandscroll'])==1 ? 'true': 'false'; ?>,
 			road_brandscrollnumber = <?php if(isset($road_opt['brandscrollnumber'])) { echo esc_js($road_opt['brandscrollnumber']); } else { echo '2';} ?>,
 			road_brandpause = <?php if(isset($road_opt['brandpause'])) { echo esc_js($road_opt['brandpause']); } else { echo '3000'; } ?>,
 			road_brandanimate = <?php if(isset($road_opt['brandanimate'])) { echo esc_js($road_opt['brandanimate']); } else { echo '700';} ?>;
-		var road_blogscroll = <?php echo esc_js($road_opt['blogscroll'])==1 ? 'true': 'false'; ?>,
-			road_blogpause = <?php if(isset($road_opt['blogpause'])) { echo esc_js($road_opt['blogpause']); } else { echo '3000'; } ?>,
+		var road_brandscroll = 'false';
+			<?php if(isset($road_opt['brandscroll'])){ ?>
+				road_brandscroll = <?php echo esc_js($road_opt['brandscroll'])==1 ? 'true': 'false'; ?>;
+			<?php } ?>
+		var	road_blogpause = <?php if(isset($road_opt['blogpause'])) { echo esc_js($road_opt['blogpause']); } else { echo '3000'; } ?>,
 			road_bloganimate = <?php if(isset($road_opt['bloganimate'])) { echo esc_js($road_opt['bloganimate']); } else { echo '700'; } ?>;
-		var road_testiscroll = <?php echo esc_js($road_opt['testiscroll'])==1 ? 'true': 'false'; ?>,
-			road_testipause = <?php if(isset($road_opt['testipause'])) { echo esc_js($road_opt['testipause']); } else { echo '3000'; } ?>,
-			road_testianimate = <?php if(isset($road_opt['testianimate'])) { echo esc_js($road_opt['testianimate']); } else { echo '700'; } ?>;
-		var road_menu_number = <?php if(isset($road_opt['categories_menu_items'])) { echo esc_js((int)$road_opt['categories_menu_items']+1); } else { echo '9';} ?>;
+		var road_blogscroll = 'false';
+			<?php if(isset($road_opt['blogscroll'])){ ?>
+				road_blogscroll = <?php echo esc_js($road_opt['blogscroll'])==1 ? 'true': 'false'; ?>;
+			<?php } ?>
 		</script>
 		<?php
 	}
@@ -1163,11 +1165,6 @@ Class RoadThemes {
 				'name'      => 'Simple Local Avatars',
 				'slug'      => 'simple-local-avatars',
 				'required'  => false,
-			),
-			array(
-				'name'      => 'Testimonials',
-				'slug'      => 'testimonials-by-woothemes',
-				'required'  => true,
 			),
 			array(
 				'name'      => 'TinyMCE Advanced',
